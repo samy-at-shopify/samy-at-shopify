@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samy-at-shopify
-- 🚀 I’m currently working as a backend engineer intern at Shopify
-- 🦺 I'm a member of the Commerce Trust and Integrity team
+- 🚀 I’m currently working as a backend developer at Shopify
+- 🦺 I'm a member of the Commerce Trust & Integrity team
 - 📫 You can reach me at samy.coulombe\<at\>shopify.com
 
 <!---
