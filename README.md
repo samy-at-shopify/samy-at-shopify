@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samy-at-shopify
-- 🚀 I’m currently working as a backend developer at Shopify
+- 🚀 I work as a backend developer at Shopify
 - 🦺 I'm a member of the Trust Signals team within Commerce Trust & Integrity
 - 📫 You can reach me at samy.coulombe\<at\>shopify.com
 
