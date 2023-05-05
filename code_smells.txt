@@ -1,0 +1,27 @@
+* Long Method - When a method is too long, it can be difficult to read and understand. This is also known as the "God Method" antipattern.
+
+* Long Parameter List - When a method has too many parameters, it can be difficult to read and understand. This is also known as the "Shotgun Surgery" antipattern.
+
+* Duplicate Code - When the same code appears in multiple places in the program, it can be difficult to maintain and update. This is also known as the "Copy and Paste" antipattern.
+
+* Data Clumps - When groups of variables always appear together, they should be consolidated into a class. This is also known as the "Feature Envy" antipattern.
+
+* Primitive Obsession - When a class relies too heavily on primitive data types, it can be difficult to maintain and extend. This is also known as the "Switch Statements" antipattern.
+
+* Switch Statements - When a method contains a switch statement, it can be difficult to extend and maintain.
+
+* Refused Bequest - When a subclass inherits methods it does not need.
+
+* Multi-Class - When a method is spread across several classes, it can be difficult to read and understand. This is also known as the "Poltergeist" antipattern.
+
+* Shotgun Surgery - When a change to one area of the program requires changes to many other areas, it can be difficult to maintain and update. This is also known as the "Long Parameter List" antipattern.
+
+* Temporary Field - When an object contains a field that is only used temporarily, it can make the code unclear. This is also known as the "Message Chains" antipattern.
+
+* Message Chains - When an object calls methods on other objects, which in turn call methods on other objects, it can be difficult to maintain and understand.
+
+* Inappropriate Intimacy - When two classes are too closely connected, it can be difficult to maintain and extend. This is also known as the "Feature Envy" antipattern.
+
+* Feature Envy - When a method seems more interested in another object's data than its own data, it should be moved to the other object's class. This is also known as the "Middle Man" antipattern.
+
+* Middle Man aka Layers of Indirection - When a class acts as an intermediary between two other classes, it can be removed to simplify the code.
