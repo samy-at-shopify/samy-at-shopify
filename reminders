@@ -1,6 +1,7 @@
 1. Find and fix your code smells
 2. Use meaningful names 
-3. Practice proper OOP
-4. Cut down conditionals
-5. Reduce complexity
-6. Show your unit tests
+3. Practice proper OOP to cut down conditionals
+4. Reduce complexity
+5. Follow conventions and already-established abstractions 
+6. Ensure proper test coverage
+7. Recognize and address premature- and over-engineering
