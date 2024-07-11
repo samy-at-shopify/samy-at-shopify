@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samy-at-shopify
 - 🚀 I work as a backend developer at Shopify
-- 🦺 I'm a member of the CT&I R&D team within Commerce Trust & Integrity
+- 🦺 I'm a member of the R&D team within Commerce Trust & Integrity
 - 📫 You can reach me at samy.coulombe\<at\>shopify.com
 
 <!---
